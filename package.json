@@ -1,0 +1,22 @@
+{
+  "name": "resin-rogext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xyala/resin-rogext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xyala/resin-rogext/issues"
+  },
+  "homepage": "https://github.com/Xyala/resin-rogext#readme",
+  "dependencies": {
+    "autobahn": "^0.11.1",
+    "i2c-bus": "^1.2.2"
+  }
+}
